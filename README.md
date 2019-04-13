@@ -1,6 +1,7 @@
 #### Python Web 建立个人博客网站
 
-本网站基于廖雪峰老师2016年的[Python3教程实践章节][1]。从学习的角度出发，本网站**并未使用成熟的Python Web开发框架**（如Flask, Django等）。
+本网站基于廖雪峰老师2016年的[Python3教程实践章节][1]
+从学习的角度出发，本网站**并未使用成熟的Python Web开发框架**（如Flask, Django等）,
 而是从最底代码开始来构建数据库，构建Web框架，构建ORM，构建MVC，构建API，到构建前端页面CSS/HTML，Javascript， DOM操作等。
 
 网站主要功能及页面包括：
@@ -10,5 +11,4 @@
 - 用户发布日志评论
 - 管理日志，用户及日志评论
 
-
-[1]：https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000/001432170876125c96f6cc10717484baea0c6da9bee2be4000
+[1]:https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000/001432170876125c96f6cc10717484baea0c6da9bee2be4000
